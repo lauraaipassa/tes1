@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Tes</title>
+</head>
+
+<body>
+    <h1>Belajar</h1>
+
+    <p>Ayok kita belajar git semangat!! </p>
+
+</body>
+</html>
